@@ -4,7 +4,6 @@ namespace chit {
 
 struct DecodedTorrent {
   size_t length;
-}
+};
 
-
-}
+}  // namespace chit
